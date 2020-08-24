@@ -26,7 +26,7 @@ function App() {
       <header className="App-header">
         <img src={lts_logo} className="App-logo" alt="logo" />
         <p>
-          Edicion en tiempo real de aplicacion en React.
+          {/*Edicion en tiempo real de aplicacion en React.*/}
         <h1>
           Hola Mundo!
         </h1>
