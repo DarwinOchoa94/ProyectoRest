@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './assets/images/logo.svg';
+import lts_logo from './assets/images/lts_logo.png'
 import './assets/css/App.css';
 
 //Imports de Componentes
@@ -23,7 +24,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={lts_logo} className="App-logo" alt="logo" />
         <p>
           Edicion en tiempo real de aplicacion en React.
         <h1>
