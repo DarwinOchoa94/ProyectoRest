@@ -31,8 +31,6 @@ function App() {
         </h1>
           {Usuario (nombre, apellido, edad)}
           <Componente01/>
-          <Componente01/>
-          <Componente01/>
         </p>
         <a
           className="App-link"
